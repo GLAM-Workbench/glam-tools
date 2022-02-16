@@ -1,0 +1,6 @@
+pytest
+nbval
+black[jupyter]
+isort
+flake8
+nbqa

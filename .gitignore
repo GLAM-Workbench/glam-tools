@@ -1,0 +1,13 @@
+*.pyc
+.DS_Store
+snippets.ipynb
+.ipynb_checkpoints
+#*.csv
+Untitled*
+update_version.sh
+.env
+credentials.py
+draft*
+.github/workflows/release_new_version.yml
+test_and_lint.sh
+1918
